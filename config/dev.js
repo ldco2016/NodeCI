@@ -10,5 +10,7 @@ module.exports = {
   sendGridKey:
     "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",
   redirectDomain: "http://localhost:3000",
-  redisUrl: "redis://127.0.0.1:6379"
+  redisUrl: "redis://127.0.0.1:6379",
+  accessKeyId: "AKIAQ77O45MR2MYEYMWU",
+  secretAccessKey: "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"
 };
